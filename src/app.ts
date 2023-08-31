@@ -28,9 +28,9 @@ import Fibonacci_lfdc from "./atividades/2.10/class/Fibonacci_lfdc";
 //console.log(funcao_iterativa_lfdc(10000))
 
 // 2.9
-//const Progressao = new Progressao_Geometrica_lfdc(2, 3)
-//Progressao.gerarTermos()
+const Progressao = new Progressao_Geometrica_lfdc(2, 3)
+Progressao.gerarTermos()
 
 // 2.10
-// const Fibonacci = new Fibonacci_lfdc();
-// console.log(Fibonacci.CalcularTermo(5))
+//  const Fibonacci = new Fibonacci_lfdc();
+//  console.log(Fibonacci.CalcularTermo(5))

@@ -15,7 +15,7 @@
 
 ### 2.5 - Definição recursiva de uma sequência numérica cujos elementos são obtidos multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o primeiro elemento vale 2
     Resposta: 
-    Definição Recursiva = {Xk_ | X1_ = 2 e Xk_ = 3Xk_-1 para k >= 1}
+    Definição Recursiva = {Xk_ | X1_ = 2 e Xk_ = 3Xk_-1 para k >= 2}
 
 ## 2.6 Utilizando linguagem de programação defina:
 
