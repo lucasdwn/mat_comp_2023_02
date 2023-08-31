@@ -11,7 +11,7 @@
 
 ### 2.4 - Definição ostensiva de um colega de classe.
     Resposta: 
-<div style="display:flex; align-items:center">Aliceu = <img src="../src/images/aliceu.png"  width="100" /></div>
+<div style="display:flex; align-items:center">Aliceu = <img src="./src/images/aliceu.png"  width="100" /></div>
 
 ### 2.5 - Definição recursiva de uma sequência numérica cujos elementos são obtidos multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o primeiro elemento vale 2
     Resposta: 
