@@ -1,0 +1,21 @@
+{
+  "name": "mat_comp_2023_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdwn/mat_comp_2023_02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdwn/mat_comp_2023_02/issues"
+  },
+  "homepage": "https://github.com/lucasdwn/mat_comp_2023_02#readme"
+}
